@@ -30,6 +30,7 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
+<!--
 ## 📊 GitHub 통계
 
 <div align="center">
@@ -42,7 +43,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryu1216&theme=react-dark" width="95%"/>
 </div>
-
+-->
 ## 🛠️ 프로젝트
 
 ### 🔹 MODiVE
