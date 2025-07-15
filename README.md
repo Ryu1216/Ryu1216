@@ -1,9 +1,10 @@
-# 👋 안녕하세요, 류동현 입니다
+
 
 <div align="center">
+  <!--
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="300">
   <br><br>
-  
+  -->
   <p>
     <a href="http://resumazebucket.s3-website.ap-northeast-2.amazonaws.com/" target="_blank">
       <img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -46,20 +47,21 @@
 -->
 ## 🛠️ 프로젝트
 
-### 🔹 MODiVE
+### 🔹 MODiVE - 클라우드 기반 실시간 차량 데이터 수집·분석 플랫폼
 <p>
-  <a href="https://github.com/LGCNS-Final-PJT-Team5/FE">
+  <a href="https://github.com/LGCNS-Final-PJT-Team5">
     <img src="https://img.shields.io/badge/GitHub-Frontend-green?style=flat-square&logo=github" />
   </a>
 </p>
 
-### 🔹 HaruHan Mail Project
+### 🔹 HaruHan Mail Project - 지식 뉴스레터 서비스
 <p>
-  <a href="https://github.com/HaruHan-Mail/FE">
+  <a href="https://github.com/HaruHan-Mail">
     <img src="https://img.shields.io/badge/GitHub-Frontend-green?style=flat-square&logo=github" />
   </a>
 </p>
 
+<!--
 ## 🏆 트로피
 
 <div align="center">
